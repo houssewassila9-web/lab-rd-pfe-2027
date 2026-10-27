@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "Lab R&D PFE 2027 Tracker",
+  "short_name": "Lab R&D PFE",
+  "description": "Suivi des laboratoires, contacts et candidatures PFE agroalimentaire 2027",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#102c40",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "./icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
